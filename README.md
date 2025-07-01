@@ -19,7 +19,7 @@ Interests:
   - Artificial Intelligence
   - Create softwares & deployment 
   - Full-Stack Development
-  - Embedded Systems
+  - AI Agents
   - Problem Solving with DSA & OOP
 Goal: "Build smart, real-world tech that matters 🚀"
 ```
