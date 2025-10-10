@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <span style="color:#fca311">Alwarsamy</span> 👋</h1>
-<p align="center">🚀 BE Student | 💻 Future Software Developer | 🌐 AI + fullstack Enthusiast</p>
+<p align="center"> Fullstack Developer | DSA Enthusiast | AI + ML Enthusiast</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/alwar123"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
