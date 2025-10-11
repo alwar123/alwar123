@@ -36,13 +36,31 @@ Goal: "Build smart, real-world tech that matters 🚀"
 
 ### 🚀 Projects That Define Me
 
-| 🚧 Project                                                 | ⚙️ Tech              | 📄 Description                                   |
-| ---------------------------------------------------------- | -------------------- | ------------------------------------------------ |
-| [Car Chatbot](https://github.com/alwar123/car-chatbot)     | Python + Streamlit   | AI-based car support assistant                   |
-| [Portfolio Website](https://github.com/alwar123/portfolio) | HTML, CSS, JS        | Personal branded responsive website              |
-| AI Math Tutor Game                                         | Python (In Progress) | Generates math puzzles dynamically with AI hints |
+<table>
+  <tr>
+    <td width="50%"><a href="https://twitter.com/search?q=skyline.github.com&src=typed_query"><img width="100%" src="images/aicanvas.gif"></a><br><sup><strong>Website:</strong> GitHub Skyline</sup>
+    <td width="50%"><a href="https://twitter.com/github/status/1306586113293729795"><img width="100%" src="images/cli.gif"></a><br><sup><strong>Product launch:</strong> GitHub CLI 1.0</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/github/status/1409883156333879300"><img width="100%" src="images/copilot.gif"></a><br><sup><strong>Product launch:</strong> GitHub Copilot</sup>
+    <td width="50%"><a href="[https://github.blog/open-source/git/git-merge-2022-mission-report/](https://git-merge.com/)"><img width="100%" src="images/git-merge.png"></a><br><sup><strong>Event organizer:</strong> Git Merge 2022</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://twitter.com/github/status/1455272696577761289"><img width="100%" src="images/game-off.gif"></a><br><sup><strong>Game Jam:</strong> Game Off organizer + creative</sup></td>
+    <td width="50%"><a href="https://twitter.com/search?q=from%3Agithub%20hacktoberfest&src=typed_query"><img width="100%" src="images/hactoberfest.png"></a><br><sup><strong>Hackathon:</strong> Hacktoberfest co-organizer</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://twitter.com/github/status/1384130507898720262"><img width="100%" src="images/nasa-jpl.gif"></a><br><sup><strong>Video:</strong> NASA JPL</sup></td>
+    <td width="50%"><a href="https://twitter.com/github/status/1374087749234528260"><img width="100%" src="images/ctf.gif"></a><br><sup><strong>Creative:</strong> GitHub CTF</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://twitter.com/github/status/572862961850589184"><img width="100%" src="images/epic.gif"></a><br><sup><strong>Video:</strong> Epic Games & Unreal Engine on the 'Hub</sup></td>
+    <td width="50%"><a href="https://twitter.com/github/status/131433236306993152"><img width="100%" src="images/enterprise.png"></a><br><sup><strong>Engineer:</strong> GitHub Enterprise</sup></td>
+  </tr>
+</table>
 
 ---
+
 
 ### 💻 Coding Journey
 
