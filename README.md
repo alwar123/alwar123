@@ -16,7 +16,8 @@
 </p>
 <br>
 <br>
-Who Am I?
+
+### Who Am I?
 
 <div>
   <img align="right" height="150" width="170"src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif" />
@@ -62,7 +63,7 @@ Always eager to learn, experiment, and create impactful solutions.
 
 
 ---
-####  Platforms I'm Active On:
+###  Platforms I'm Active On:
 
 ```txt
 🔶 LeetCode  → leetcode.com/alwarsamy
@@ -77,7 +78,7 @@ Always eager to learn, experiment, and create impactful solutions.
 ```
 
 
-##  GitHub Analytics
+###  GitHub Analytics
 <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alwar123&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=1E90FF&text_color=FFFFFF&icon_color=1E90FF&ring_color=1E90FF&border_color=1E90FF" alt="GitHub Stats" />
 
@@ -89,7 +90,7 @@ Always eager to learn, experiment, and create impactful solutions.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alwar123&theme=dark&hide_border=true&background=0D1117&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1E90FF&sideLabels=1E90FF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
-##  GitHub Trophies
+###  GitHub Trophies
 
 <div align="center">
 
