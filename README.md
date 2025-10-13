@@ -35,8 +35,9 @@ Always eager to learn, experiment, and create impactful solutions.
 ### Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,mysql,git,docker,tensorflow,pytorch,linux,html,css,vscode,figma,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,mysql,git,docker,tensorflow,pytorch,linux,html,css,vscode,figma,postman&theme=dark" width="700" />
 </p>
+
 
 ---
 
