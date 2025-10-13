@@ -8,15 +8,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/alwar123"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://codolio.in/alwar123"><img src="https://img.shields.io/badge/-Codolio-0f172a?style=for-the-badge&logo=data&logoColor=white"/></a>
-  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/-Portfolio-ff7f50?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-</p>
-<br>
-<br>
-
 ### Who Am I?
 
 <div>
@@ -31,15 +22,6 @@ Always eager to learn, experiment, and create impactful solutions.
 </small>
 
 <br><br>
-
-### Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,mysql,git,docker,tensorflow,pytorch,linux,html,css,vscode,figma,postman&theme=dark" width="700" />
-</p>
-
-
----
 
 ### Featured Projects
 <table>
@@ -61,6 +43,13 @@ Always eager to learn, experiment, and create impactful solutions.
     </td>
   </tr>
 </table>
+
+
+### Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,mysql,git,docker,tensorflow,pytorch,linux,html,css,vscode,figma,postman&theme=dark" width="700" />
+</p>
 
 
 ---
