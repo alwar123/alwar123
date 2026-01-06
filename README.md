@@ -1,12 +1,12 @@
+<!-- Capsule Render Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Alwarsamy&desc=Full%20Stack%20%7C%20ML%20%7C%20AI&descAlign=50&descAlignY=65&fontSize=70&fontColor=ffffff&section=header"/>
+</p>
+
+<!-- Visitor Badge -->
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alwar123.alwar123" alt="visitor badge">
 </p>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👋;This+is+Alwarsamy.;Nice+to+meet+you!&center=true&size=30" alt="typing svg">
-  </a>
-</h1>
 
 ### Who Am I?
 
