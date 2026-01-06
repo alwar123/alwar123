@@ -3,26 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Alwarsamy&desc=Full%20Stack%20%7C%20ML%20%7C%20AI&descAlign=50&descAlignY=65&fontSize=70&fontColor=ffffff&section=header"/>
 </p>
 
-<!-- Visitor Badge -->
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alwar123.alwar123" alt="visitor badge">
-</p>
-
-### Who Am I?
-
-<div>
-  <img align="right" height="150" width="170"src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif" />
-</div>
-
-<small>
-Passionate learner and developer building innovative projects, AI tools,full-stack web apps.<br>
-Exploring Python, JavaScript, React, Node.js, SQL, and MongoDB,<br>
-while sharpening problem-solving and algorithmic skills in C++, Java, and Python.<br>
-Always eager to learn, experiment, and create impactful solutions.
-</small>
-
-<br><br>
-
 ### Featured Projects
 <table>
   <tr>
