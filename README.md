@@ -4,23 +4,7 @@
 
 I'm a **Machine Learning student** currently pursuing my studies in **Engineering**.
 In addition to my academics, I have completed **two Machine Learning internships at Infotech**, where I gained practical experience working on real-world ML projects and data-driven solutions.
-
-On my website / web portfolio, you can find more information about my career, projects, and professional background.
-
-Thank you for stopping by.
-
----
-
-## **😊 About me**
-
-- 🔭 I'm currently working while I continue studying new technologies.
-- 🌱 I'm learning Go and React.js.
-- 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
-- ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
-
-<!--- Extra things to add in the future
-
-👯 I'm looking to....  - 🤔 I'm looking for new .-->
+#### Checkout my [bio.link](https://haldaranup.bio.link) profile for more details.
 
 ---
 
