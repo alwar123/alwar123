@@ -5,7 +5,7 @@
 I am a **Computer Science and Engineering (Artificial Intelligence and Machine Learning)** student at **KIT – Kalaignar Karunanidhi Institute of Technology**. I am passionate about **coding, building real-world projects, and applying AI and machine learning techniques** to solve practical problems.I enjoy working on **software development, data-driven systems, and intelligent applications**, and I continuously improve my skills through hands-on projects and learning new technologies.
 
 In addition to my academics, I have completed the following internships:
-- **[Machine Learning Intern at Ether Infotech](PASTE_CERTIFICATE_LINK_HERE)**
+- **[Machine Learning Intern at Ether Infotech](https://drive.google.com/file/d/1Q5nBmAPCTHQakHGV2jhh0Wcowy4kXTc3/view?usp=drive_link)**
 - **[Full Stack Development Intern at LearnLogicify Technologies](PASTE_CERTIFICATE_LINK_HERE)**
 
 #### Checkout my [bio.link](https://haldaranup.bio.link) profile for more details.
