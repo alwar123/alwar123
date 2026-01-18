@@ -97,14 +97,14 @@ I have hands-on experience in front-end and back-end web development, along with
 
 </p>
 
-
 ### Platforms I'm Active On
 
 | Platform | Profile | Highlights |
 |--------|---------|------------|
 | 🔶 **LeetCode** | https://leetcode.com/alwarsamy | Solved: **350+** · Rating: **1750** · **3× Weekly Contest Top 10%** |
 | 🔷 **CodeChef** | https://www.codechef.com/users/alwarsamy | Solved: **400+** · Rating: **1650** · **2× Long Challenge Star** |
-| 🌟 **Codolio** | https://codolio.in/alwar123 | Projects: **12** · Skills: **Python, DSA, AI** · **Featured Developer** |
+| 🟢 **HackerRank** | https://www.hackerrank.com/alwarsamy | Problem Solving · Python · SQL |
+| 🔵 **Codeforces** | https://codeforces.com/profile/alwarsamy | Competitive Programming · Regular Practice |
 
 
 <details>
