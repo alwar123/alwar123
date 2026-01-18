@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD042-->
 
-# Hi there, I'm **Alwarsamy**! 👋
+# Hi there, I'm **[Alwarsamy](https://codolio.in/alwarsamy)**! 👋
 
 I am a **Computer Science and Engineering (Artificial Intelligence and Machine Learning)** student at **KIT – Kalaignar Karunanidhi Institute of Technology**. I am passionate about **coding, building real-world projects, and applying AI and machine learning techniques** to solve practical problems.I enjoy working on **software development, data-driven systems, and intelligent applications**, and I continuously improve my skills through hands-on projects and learning new technologies.
 
