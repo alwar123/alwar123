@@ -104,16 +104,42 @@ My skill set spans **front-end and back-end technologies**, along with **mobile 
 | 🔷 **CodeChef** | https://www.codechef.com/users/alwarsamy | Solved: **250+** · Rating: **1650** · **2× Long Challenge Star** |
 | 🌟 **Codolio** | https://codolio.in/alwar123 | Projects: **12** · Skills: **Python, DSA, AI** · **Featured Developer** |
 
-
-</details>
-
 <details>
-<summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
+<summary><samp>&#9776;</samp> Click to expand GitHub Stats & Contributions</summary>
+
+<br>
+
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats">
-    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9"/>
+  <a href="https://github.com/alwar123">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=alwar123&theme=monokai&no-bg=true&row=2&column=6&margin-w=15&margin-h=15">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=alwar123&no-bg=true&row=2&column=6&margin-w=15&margin-h=15">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=alwar123&no-bg=true&row=2&column=6&margin-w=15&margin-h=15">
+    </picture>
+  </a>
 </p>
+
+<br>
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alwar123&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=alwar123&theme=tokyonight" />
+</p>
+
+<br>
+
+<!-- Contribution Graph -->
+<h2 align="center">📈 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alwar123&theme=tokyo-night" />
+</p>
+
 </details>
+
 
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
