@@ -8,7 +8,7 @@ In addition to my academics, I have completed the following internships:
 - **[Machine Learning Intern at Ether Infotech](https://drive.google.com/file/d/1Q5nBmAPCTHQakHGV2jhh0Wcowy4kXTc3/view?usp=drive_link)**
 - **[Full Stack Development Intern at LearnLogicify Technologies](https://drive.google.com/file/d/1ZDI9N0_Dm7tRlZKqZMBU-rqGLwgpl5NV/view?usp=sharing)**
 
-#### Checkout my [bio.link](https://haldaranup.bio.link) profile for more details.
+#### Check out my **[resume](https://drive.google.com/file/d/1Mc4M0UBfeaA3cIm5oVNIoNd5Pe9NLJFp/view?usp=drive_link)** for more details.
 
 ---
 
