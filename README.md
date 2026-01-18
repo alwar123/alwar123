@@ -36,8 +36,7 @@ In addition to my academics, I have completed the following internships:
 
 ### Skills Overview
 
-I have hands-on experience across **web development, programming, scripting, and system-level tools**.  
-My skill set spans **front-end and back-end technologies**, along with **mobile app development, terminal scripting, and operating systems**. I enjoy exploring new technologies, customizing systems, and building practical tools during my free time.
+I have hands-on experience in front-end and back-end web development, along with a strong foundation in machine learning and data structures and algorithms (DSA). My skill set includes building responsive user interfaces, developing backend services and APIs, and applying machine learning techniques to solve practical problems. I enjoy learning new technologies and working on projects that strengthen my problem-solving and software development skills.
 
 <p align="center">
 
