@@ -101,27 +101,15 @@ My skill set spans **front-end and back-end technologies**, along with **mobile 
 | 🌟 **Codolio** | https://codolio.in/alwar123 | Projects: **12** · Skills: **Python, DSA, AI** · **Featured Developer** |
 
 
+</details>
 
-###  GitHub Analytics
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alwar123&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=1E90FF&text_color=FFFFFF&icon_color=1E90FF&ring_color=1E90FF&border_color=1E90FF" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwar123&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=FFFFFF&border_color=1E90FF" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alwar123&theme=dark&hide_border=true&background=0D1117&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1E90FF&sideLabels=1E90FF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-###  GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alwar123&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-<br><br>
+<details>
+<summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
+<p align="center">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats">
+    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9"/>
+</p>
+</details>
 
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
