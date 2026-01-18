@@ -1,7 +1,28 @@
-<!-- Capsule Render Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Alwarsamy&desc=Full%20Stack%20%7C%20ML%20%7C%20AI&descAlign=50&descAlignY=65&fontSize=70&fontColor=ffffff&section=header"/>
-</p>
+<!-- markdownlint-disable MD033 MD042-->
+
+# Hi there, I'm **Alwarsamy**! 👋
+
+I'm a **Machine Learning student** currently pursuing my studies in **Engineering**.
+In addition to my academics, I have completed **two Machine Learning internships at Infotech**, where I gained practical experience working on real-world ML projects and data-driven solutions.
+
+On my website / web portfolio, you can find more information about my career, projects, and professional background.
+
+Thank you for stopping by.
+
+---
+
+## **😊 About me**
+
+- 🔭 I'm currently working while I continue studying new technologies.
+- 🌱 I'm learning Go and React.js.
+- 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
+- ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
+
+<!--- Extra things to add in the future
+
+👯 I'm looking to....  - 🤔 I'm looking for new .-->
+
+---
 
 ### Featured Projects
 <table>
