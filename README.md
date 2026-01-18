@@ -6,7 +6,7 @@ I am a **Computer Science and Engineering (Artificial Intelligence and Machine L
 
 In addition to my academics, I have completed the following internships:
 - **[Machine Learning Intern at Ether Infotech](https://drive.google.com/file/d/1Q5nBmAPCTHQakHGV2jhh0Wcowy4kXTc3/view?usp=drive_link)**
-- **[Full Stack Development Intern at LearnLogicify Technologies](PASTE_CERTIFICATE_LINK_HERE)**
+- **[Full Stack Development Intern at LearnLogicify Technologies](https://drive.google.com/file/d/1ZDI9N0_Dm7tRlZKqZMBU-rqGLwgpl5NV/view?usp=sharing)**
 
 #### Checkout my [bio.link](https://haldaranup.bio.link) profile for more details.
 
