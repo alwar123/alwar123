@@ -30,12 +30,15 @@ In addition to my academics, I have completed **two Machine Learning internships
 </table>
 
 
+### Skills Overview
+
+I have hands-on experience across **web development, programming, scripting, and system-level tools**.  
+My skill set spans **front-end and back-end technologies**, along with **mobile app development, terminal scripting, and operating systems**. I enjoy exploring new technologies, customizing systems, and building practical tools during my free time.
 
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
-    <br>
-    <br>
+    <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
@@ -43,17 +46,15 @@ In addition to my academics, I have completed **two Machine Learning internships
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
-    <br>
-    <br>
+    <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
   </kbd>
   <kbd>
-    <kbd>Library/FrameWorks</kbd>
-    <br>
-    <br>
+    <kbd>Library/Frameworks</kbd>
+    <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -62,32 +63,28 @@ In addition to my academics, I have completed **two Machine Learning internships
   <br>
   <kbd>
     <kbd>Apps</kbd>
-    <br>
-    <br>
+    <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   </kbd>
   <kbd>
     <kbd>Terminal Scripts</kbd>
-    <br>
-    <br>
+    <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
-    <br>
-    <br>
+    <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
   </kbd>
   <kbd>
     <kbd>OS</kbd>
-    <br>
-    <br>
+    <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
@@ -95,20 +92,14 @@ In addition to my academics, I have completed **two Machine Learning internships
 </p>
 
 
----
-###  Platforms I'm Active On:
+### Platforms I'm Active On
 
-```txt
-🔶 LeetCode  → leetcode.com/alwarsamy
-   Solved: 350+ | Rating: 1750 | 3× Weekly Contest Top 10%
+| Platform | Profile | Highlights |
+|--------|---------|------------|
+| 🔶 **LeetCode** | https://leetcode.com/alwarsamy | Solved: **350+** · Rating: **1750** · **3× Weekly Contest Top 10%** |
+| 🔷 **CodeChef** | https://www.codechef.com/users/alwarsamy | Solved: **250+** · Rating: **1650** · **2× Long Challenge Star** |
+| 🌟 **Codolio** | https://codolio.in/alwar123 | Projects: **12** · Skills: **Python, DSA, AI** · **Featured Developer** |
 
-🔷 CodeChef  → codechef.com/users/alwarsamy
-   Solved: 250+ | Rating: 1650 | 2× Long Challenge Star
-
-🌟 Codolio   → codolio.in/alwar123
-   Projects: 12 | Skills: Python, DSA, AI | Featured Developer
-
-```
 
 
 ###  GitHub Analytics
