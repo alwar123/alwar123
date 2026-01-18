@@ -155,11 +155,11 @@ I have hands-on experience in front-end and back-end web development, along with
     <img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg">
   </a>
 
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+  <a href="https://t.me/Alwar" target="_blank">
     <img alt="Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
   </a>
 
-  <a href="https://www.kaggle.com/alwarsamy" target="_blank">
+  <a href="https://www.kaggle.com/alwarsamyp" target="_blank">
     <img alt="Kaggle" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg">
   </a>
 
