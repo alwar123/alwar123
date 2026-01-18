@@ -39,60 +39,63 @@ In addition to my academics, I have completed the following internships:
 I have hands-on experience across **web development, programming, scripting, and system-level tools**.  
 My skill set spans **front-end and back-end technologies**, along with **mobile app development, terminal scripting, and operating systems**. I enjoy exploring new technologies, customizing systems, and building practical tools during my free time.
 
-<p style="display: inline-block;" align="center">
+<p align="center">
+
   <kbd>
-    <kbd>Front-end</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+    <kbd>Frontend</kbd><br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Back-end</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Library/Frameworks</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   </kbd>
+
+  <kbd>
+    <kbd>Backend Frameworks</kbd><br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+  </kbd>
+
+<kbd>
+  <kbd>Machine Learning</kbd><br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+</kbd>
+
+
+  <kbd>
+    <kbd>Databases</kbd><br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  </kbd>
+
   <br>
+
   <kbd>
-    <kbd>Apps</kbd>
-    <br><br>
+    <kbd>Programming</kbd><br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </kbd>
+
+ <kbd>
+  <kbd>Tools</kbd><br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img width="30px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</kbd>
+
   <kbd>
-    <kbd>Terminal Scripts</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Tools</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
-  </kbd>
-  <kbd>
-    <kbd>OS</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+    <kbd>Operating System</kbd><br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
+
 </p>
 
 
@@ -101,30 +104,34 @@ My skill set spans **front-end and back-end technologies**, along with **mobile 
 | Platform | Profile | Highlights |
 |--------|---------|------------|
 | 🔶 **LeetCode** | https://leetcode.com/alwarsamy | Solved: **350+** · Rating: **1750** · **3× Weekly Contest Top 10%** |
-| 🔷 **CodeChef** | https://www.codechef.com/users/alwarsamy | Solved: **250+** · Rating: **1650** · **2× Long Challenge Star** |
+| 🔷 **CodeChef** | https://www.codechef.com/users/alwarsamy | Solved: **400+** · Rating: **1650** · **2× Long Challenge Star** |
 | 🌟 **Codolio** | https://codolio.in/alwar123 | Projects: **12** · Skills: **Python, DSA, AI** · **Featured Developer** |
+
+
+<details>
+<summary><samp>&#9776;</samp> Click to expand GitHub Trophies</summary>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=alwar123&theme=monokai&no-frame=true&row=2&column=6"
+    alt="GitHub Trophies"
+  />
+</p>
+
+</details>
+
 
 <details>
 <summary><samp>&#9776;</samp> Click to expand GitHub Stats & Contributions</summary>
 
-<br>
 
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <a href="https://github.com/alwar123">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=alwar123&theme=monokai&no-bg=true&row=2&column=6&margin-w=15&margin-h=15">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=alwar123&no-bg=true&row=2&column=6&margin-w=15&margin-h=15">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=alwar123&no-bg=true&row=2&column=6&margin-w=15&margin-h=15">
-    </picture>
-  </a>
-</p>
 
 <br>
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alwar123&show_icons=true&theme=tokyonight&rank_icon=github" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=alwar123&theme=tokyonight" />
@@ -133,7 +140,7 @@ My skill set spans **front-end and back-end technologies**, along with **mobile 
 <br>
 
 <!-- Contribution Graph -->
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alwar123&theme=tokyo-night" />
 </p>
