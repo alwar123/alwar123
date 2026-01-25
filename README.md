@@ -24,7 +24,7 @@ In addition to my academics, I have completed the following internships:
       <small>AI-powered image generator using Hugging Face FLUX.1-dev model.</small>
       </p>
     </td>
-    <td width="43%">
+    <td width="45%">
       <a href="https://github.com/alwar123/StayOnTrack-AI">
         <img width="100%" src="https://raw.githubusercontent.com/alwar123/StayOnTrack-AI/main/images/StayOnTrack.gif" alt="StayOnTrack AI Project">
       </a><br>
