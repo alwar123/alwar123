@@ -24,11 +24,14 @@ In addition to my academics, I have completed the following internships:
       <small>AI-powered image generator using Hugging Face FLUX.1-dev model.</small>
       </p>
     </td>
-    <td width="50%">
-      <a href="https://twitter.com/github/status/1306586113293729795">
-        <img width="100%" src="https://raw.githubusercontent.com/alwar123/AICanvas/main/images/cli.gif" alt="GitHub CLI 1.0">
+    <td width="43%">
+      <a href="https://github.com/alwar123/StayOnTrack-AI">
+        <img width="100%" src="https://raw.githubusercontent.com/alwar123/StayOnTrack-AI/main/images/StayOnTrack.gif" alt="StayOnTrack AI Project">
       </a><br>
-      <sup><strong>Product launch:</strong> GitHub CLI 1.0</sup>
+      <sup><strong>Web App:</strong> StayOnTrack-AI</sup>
+      <p>
+        <small>AI-powered productivity & focus tracking system.</small>
+      </p>
     </td>
   </tr>
 </table>
