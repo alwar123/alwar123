@@ -1,16 +1,4 @@
-<!-- markdownlint-disable MD033 MD042-->
 
-# Hi there, I'm **[Alwarsamy](https://codolio.com/profile/alwarsamy)**! 👋
-
-I am a **Computer Science and Engineering (Artificial Intelligence and Machine Learning)** student at **KIT – Kalaignar Karunanidhi Institute of Technology**. I am passionate about **coding, building real-world projects, and applying AI and machine learning techniques** to solve practical problems.I enjoy working on **software development, data-driven systems, and intelligent applications**, and I continuously improve my skills through hands-on projects and learning new technologies.
-
-In addition to my academics, I have completed the following internships:
-- **[Machine Learning Intern at Ether Infotech](https://drive.google.com/file/d/1Q5nBmAPCTHQakHGV2jhh0Wcowy4kXTc3/view?usp=drive_link)**
-- **[Full Stack Development Intern at LearnLogicify Technologies](https://drive.google.com/file/d/1ZDI9N0_Dm7tRlZKqZMBU-rqGLwgpl5NV/view?usp=sharing)**
-
-#### Check out my **[resume](https://drive.google.com/file/d/1Mc4M0UBfeaA3cIm5oVNIoNd5Pe9NLJFp/view?usp=drive_link)** for more details.
-
----
 
 ### Featured Projects
 <table>
